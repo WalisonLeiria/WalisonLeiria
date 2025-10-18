@@ -47,7 +47,6 @@ Especializado em SRE (Site Reliability Engineering) e observabilidade, utilizo f
 ### 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WalisonLeiria&show_icons=true&theme=dracula&count_private=true)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WalisonLeiria&commits_year=2020)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=WalisonLeiria&layout=compact&theme=dracula)
 
